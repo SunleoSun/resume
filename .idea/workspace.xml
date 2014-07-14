@@ -26,37 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="92" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="174" max-vertical-offset="551">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="82" selection-start="10450" selection-end="10450" vertical-scroll-proportion="0.8286052" vertical-offset="4113" max-vertical-offset="6264">
+            <state line="219" column="131" selection-start="16246" selection-end="16246" vertical-scroll-proportion="0.0" vertical-offset="7279" max-vertical-offset="9889">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/test.coffee">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="348">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+            <state line="176" column="24" selection-start="7268" selection-end="7268" vertical-scroll-proportion="0.47044918" vertical-offset="5750" max-vertical-offset="14964">
               <folding />
             </state>
           </provider>
@@ -65,18 +47,7 @@
       <file leaf-file-name="resume.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/site/resume.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="220" column="17" selection-start="8149" selection-end="8149" vertical-scroll-proportion="18.31579" vertical-offset="7076" max-vertical-offset="9454">
-              <folding>
-                <marker date="1404048448273" expanded="true" signature="11731:11736" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="11281">
+            <state line="166" column="37" selection-start="6197" selection-end="6197" vertical-scroll-proportion="-39.68421" vertical-offset="3306" max-vertical-offset="19952">
               <folding />
             </state>
           </provider>
@@ -104,10 +75,10 @@
         <option value="$PROJECT_DIR$/protected/views/site/index.php" />
         <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/protected/views/site/resume.php" />
         <option value="$PROJECT_DIR$/assets/test.coffee" />
         <option value="$PROJECT_DIR$/assets/main.js" />
+        <option value="$PROJECT_DIR$/protected/views/site/resume.php" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -168,7 +139,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,27 +242,10 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yiitest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yiitest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +255,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
     <property name="JavaScriptLanguageLevel" value="JS_1_5" />
-    <property name="last_opened_file_path" value="/usr/local/bin/coffee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -379,15 +332,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24625267" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24625267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2719486" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2719486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33485195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33485195" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -420,12 +373,15 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../resume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="460" column="27" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.0" vertical-offset="13340" max-vertical-offset="19140" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/resume.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="24" selection-start="3103" selection-end="3103" vertical-scroll-proportion="0.0" vertical-offset="2320" max-vertical-offset="4930">
-          <folding>
-            <marker date="1404048448273" expanded="true" signature="11731:11736" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -475,53 +431,40 @@
         <state line="5" column="15" selection-start="65" selection-end="65" vertical-scroll-proportion="0.17990075" vertical-offset="0" max-vertical-offset="806" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="11281">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="7" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.33333334" vertical-offset="1922" max-vertical-offset="5539">
-          <folding />
-        </state>
+        <state line="76" column="7" selection-start="1211" selection-end="1211" vertical-scroll-proportion="0.33333334" vertical-offset="1922" max-vertical-offset="5539" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../resume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="460" column="27" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.0" vertical-offset="13340" max-vertical-offset="19140" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="92" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="174" max-vertical-offset="551">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/test.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/site/resume.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="220" column="17" selection-start="8149" selection-end="8149" vertical-scroll-proportion="18.31579" vertical-offset="7076" max-vertical-offset="9454">
-          <folding>
-            <marker date="1404048448273" expanded="true" signature="11731:11736" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
+        <state line="6" column="92" selection-start="394" selection-end="394" vertical-scroll-proportion="0.25123763" vertical-offset="0" max-vertical-offset="808">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="82" selection-start="10450" selection-end="10450" vertical-scroll-proportion="0.8286052" vertical-offset="4113" max-vertical-offset="6264">
+        <state line="219" column="131" selection-start="16246" selection-end="16246" vertical-scroll-proportion="0.0" vertical-offset="7279" max-vertical-offset="9889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/resume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="37" selection-start="6197" selection-end="6197" vertical-scroll-proportion="-39.68421" vertical-offset="3306" max-vertical-offset="19952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="24" selection-start="7268" selection-end="7268" vertical-scroll-proportion="0.47044918" vertical-offset="5750" max-vertical-offset="14964">
           <folding />
         </state>
       </provider>

@@ -2910,3 +2910,14 @@ Stack trace:
 #15 {main}
 REQUEST_URI=/
 ---
+2014/06/30 11:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "Modern".' in G:\Temp\yiitest\framework\web\CController.php:483
+Stack trace:
+#0 G:\Temp\yiitest\framework\web\CController.php(270): CController->missingAction('Modern')
+#1 G:\Temp\yiitest\framework\web\CWebApplication.php(282): CController->run('Modern')
+#2 G:\Temp\yiitest\framework\web\CWebApplication.php(141): CWebApplication->runController('site/Modern')
+#3 G:\Temp\yiitest\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 G:\Temp\yiitest\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/?r=site/Modern&page=2
+HTTP_REFERER=http://yiitest/?r=site/Modern
+---

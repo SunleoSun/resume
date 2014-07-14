@@ -165,6 +165,20 @@ body{
     margin-left: 2%;
 }
 
+table
+{
+    min-width: 936px;
+}
+
+.text-el:first-child table
+{
+    width: 500px;
+    min-width: 400px;
+    margin-bottom: 10px;
+}
+
+
+
 .header
 {
     border: 2px solid rgba(171, 41, 41, 1);
@@ -227,7 +241,7 @@ table
 
 h2
 {
-    font: 14pt normal Arial,Helvetica,sans-serif;
+    font: 15pt normal Arial,Helvetica,sans-serif;
     background-color: rgba(248, 248, 248, 1);
     display: inline-block;
     color: rgba(43, 146, 17, 1);
@@ -236,7 +250,7 @@ h2
 ul
 {
     background-color: #F5F5F5;
-    width: 665px;
+    width: 895px;
     padding-top: 10px;
     padding-bottom: 10px;
     border: 1px solid #808080;
@@ -250,7 +264,7 @@ abbr
 }
 .avatar
 {
-    width: 346px;
+    width: 345px;
     float: left;
     margin-right: 50px;
 }
